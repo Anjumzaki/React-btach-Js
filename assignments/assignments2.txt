@@ -1,0 +1,12 @@
+Quiz System
+
+Make an array of Answers
+Make an array of Question
+
+show users a prompt of questions and store in another array
+
+check the answer by matching answer array with prompt created array counter ++
+
+For result if the marks 70% then you are pass 
+
+other than show try again
