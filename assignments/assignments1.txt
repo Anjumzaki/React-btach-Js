@@ -1,0 +1,23 @@
+Make A recruiting form
+
+--Get name
+--Get age
+--Get experince in years
+
+
+if age > 19 age < 12 and exp==1
+
+com out for our tryouts
+
+--Get father Name 
+--Degree level
+
+var rollNum = Math.random()*1000
+rollNum.floor()
+
+
+else
+
+better luck next time
+
+ 
