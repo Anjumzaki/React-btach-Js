@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <script> 
+    var myQuestion = ['name','fathersname','123'];
+    var myAnswer = ['123','123','123'];
+    var userAnswer = [];
+    var countNum = 0;
+    var average ;
+
+    for(var i=0 ; i<myQuestion.length ; i++)
+    {
+        for(var j=0 ; j<myQuestion.length ; j++)
+        {
+        userAnswer[j] = prompt(myQuestion[j]);
+        }
+        if(userAnswer[i] === myAnswer[i] )
+        {countNum++}
+    }
+    average = (countNum/myQuestion.length)*100;
+    if(average>70)
+    {alert ("your average is"+average+"Congratulation you are pass")}
+    else
+    {alert("Sorry try again you average is Less then 70%"+average);}
+    
+    // for(var j=0 ; j > userAnswer.length ; j++)
+    // {
+    //     console.log(userAnswer[j]);
+    // }
+    
+ 
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

@@ -1,0 +1,8 @@
+getting a paragraph from the user 
+
+then get a word to find in paragraoh...
+
+
+if the word occures in paragraph ask for the replacement of that word other wise terminate the program with thank you note
+
+do with this three methods followed by the book
