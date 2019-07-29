@@ -1,0 +1,5 @@
+get data of birth from the user
+
+ask him/her for what he want in conversion in days/hours/years/secs according to current data
+
+show them value
